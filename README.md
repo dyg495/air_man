@@ -1,2 +1,2 @@
 # air_man
-This is a description open to everyone.
+This is a air_man's task repository for studying c language. 
